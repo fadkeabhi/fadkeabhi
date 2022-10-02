@@ -42,4 +42,4 @@ Student at International Institute of Information Technology, Pune.
 
 </div>
 
-[![Shreya's github activity graph](https://activity-graph.herokuapp.com/graph?username=fadkeabhi&theme=gotham)](https://github.com/shreyap05/github-readme-activity-graph)
+[![AB'z github activity graph](https://activity-graph.herokuapp.com/graph?username=fadkeabhi&theme=gotham)](https://github.com/fadkeabhi)
